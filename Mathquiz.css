@@ -1,0 +1,72 @@
+.body{
+    background-image: url("https://i.pinimg.com/originals/5b/8d/e6/5b8de69581b9d4ca79062947e6d53cc9.jpg");
+    border-image-repeat: stretch;
+    }
+    
+    #player1_name_input{
+        color: black;
+    }
+    
+    #player2_name_input{
+        color:black;
+    }
+    
+    .login_div1{
+      background-color:white;
+      border-radius:70px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      width: 450px;
+    }
+    
+    .login_div2{
+
+      background-color:white;
+      border-radius:20px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      width: 450px;
+    }
+    
+    #heading{
+      color:lightblue;
+    }
+
+    #output {
+        background:palevioletred;
+        border-radius: 10px;
+        border-top: 10px solid pink ;
+        padding: 10px;
+        float: none;
+        text-align: left;
+        width: 650px;
+    }
+
+    #player_question{
+        color: white;
+        font-size: medium;
+    }
+
+    #player_answer{
+        color: white;
+        font-size: medium;
+    }
+
+    #player1_score{
+        color:black;
+        font-size: medium;
+    }
+
+    #player2_score{
+        color:black;
+        font-size: medium;
+    } 
+       
+    #player1_name{
+      color:black;
+      font-size: medium;
+  } 
+  
+    #player2_name{
+    color:black;
+    font-size: 20px;
+}
+
